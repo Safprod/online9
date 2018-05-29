@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-09_1453",
-    "currentPage": "page9.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -96,11 +96,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>All images presented may be used to whomever wants it. Please use them ethically. I am not to enforce ethics onto you, so those are for you to decide. Therfore no images are compressed nor are they watermarked. Please DO hesitate to contact me for any information, since I value my time.</b></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTskZA5bxu",
+          "_anchor": "content1-63",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-63"
+          "_params": {}
         },
         {
           "_styles": {
